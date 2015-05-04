@@ -1,7 +1,5 @@
 package com.theuniversalgraph.model;
 
-import java.util.Collection;
-
 import lombok.Data;
 
 @Data
